@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My_USB_Devices</string>
+    <string name="check_usb_devices">Check USB devices</string>
+</resources>
